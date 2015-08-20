@@ -73,3 +73,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.tlog
+*.log
+*.idb
+x64/Debug/vc120.pdb
+*.pdb
